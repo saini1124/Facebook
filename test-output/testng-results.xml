@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-19T09:40:52 EDT" name="FaceBookFrameTestSuite" finished-at="2022-08-19T09:41:56 EDT" duration-ms="64456">
+    <groups>
+    </groups>
+    <test started-at="2022-08-19T09:40:52 EDT" name="FaceBookProject Test" finished-at="2022-08-19T09:41:56 EDT" duration-ms="64456">
+      <class name="com.fbp.qa.testcases.EventPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:36 EDT" name="setup" finished-at="2022-08-19T09:41:43 EDT" duration-ms="7840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEventsPageLabel()[pri:1, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:43 EDT" name="verifyEventsPageLabel" finished-at="2022-08-19T09:41:44 EDT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEventsPageLabel -->
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:44 EDT" name="teraDown" finished-at="2022-08-19T09:41:44 EDT" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:44 EDT" name="setup" finished-at="2022-08-19T09:41:52 EDT" duration-ms="7588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectNotificationsTest()[pri:2, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:52 EDT" name="selectNotificationsTest" finished-at="2022-08-19T09:41:56 EDT" duration-ms="3612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNotificationsTest -->
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:com.fbp.qa.testcases.EventPageTest@7db12bb6]" started-at="2022-08-19T09:41:56 EDT" name="teraDown" finished-at="2022-08-19T09:41:56 EDT" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+      </class> <!-- com.fbp.qa.testcases.EventPageTest -->
+      <class name="com.fbp.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:09 EDT" name="setup" finished-at="2022-08-19T09:41:13 EDT" duration-ms="4108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:13 EDT" name="verifyHomePageTitleTest" finished-at="2022-08-19T09:41:17 EDT" duration-ms="3375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:17 EDT" name="teraDown" finished-at="2022-08-19T09:41:17 EDT" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:17 EDT" name="setup" finished-at="2022-08-19T09:41:21 EDT" duration-ms="4002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUserNameTest()[pri:2, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:21 EDT" name="verifyUserNameTest" finished-at="2022-08-19T09:41:25 EDT" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:25 EDT" name="teraDown" finished-at="2022-08-19T09:41:26 EDT" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:26 EDT" name="setup" finished-at="2022-08-19T09:41:31 EDT" duration-ms="4353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEventTest()[pri:3, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:31 EDT" name="verifyEventTest" finished-at="2022-08-19T09:41:35 EDT" duration-ms="4247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEventTest -->
+        <test-method is-config="true" signature="teraDown()[pri:0, instance:com.fbp.qa.testcases.HomePageTest@273e7444]" started-at="2022-08-19T09:41:35 EDT" name="teraDown" finished-at="2022-08-19T09:41:36 EDT" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teraDown -->
+      </class> <!-- com.fbp.qa.testcases.HomePageTest -->
+      <class name="com.fbp.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:40:52 EDT" name="setup" finished-at="2022-08-19T09:40:57 EDT" duration-ms="5021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:40:57 EDT" name="loginPageTitleTest" finished-at="2022-08-19T09:40:57 EDT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:40:57 EDT" name="tearDown" finished-at="2022-08-19T09:40:58 EDT" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:40:58 EDT" name="setup" finished-at="2022-08-19T09:41:02 EDT" duration-ms="3950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fblogoImgTest()[pri:2, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:41:02 EDT" name="fblogoImgTest" finished-at="2022-08-19T09:41:02 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogoImgTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:41:02 EDT" name="tearDown" finished-at="2022-08-19T09:41:02 EDT" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:41:02 EDT" name="setup" finished-at="2022-08-19T09:41:08 EDT" duration-ms="5630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:3, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:41:08 EDT" name="loginTest" finished-at="2022-08-19T09:41:08 EDT" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fbp.qa.testcases.LoginPageTest@17497425]" started-at="2022-08-19T09:41:08 EDT" name="tearDown" finished-at="2022-08-19T09:41:09 EDT" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fbp.qa.testcases.LoginPageTest -->
+    </test> <!-- FaceBookProject Test -->
+  </suite> <!-- FaceBookFrameTestSuite -->
+</testng-results>

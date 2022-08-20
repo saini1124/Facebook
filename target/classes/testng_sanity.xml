@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="FaceBookFrameTestSuite">
+  <test name="FaceBookProject Test">
+    <classes>
+    <class name="com.fbp.qa.testcases.LoginPageTest"/>
+     <class name="com.fbp.qa.testcases.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

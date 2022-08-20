@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="FaceBookFrameTestSuite">
+ 
+  <listeners>
+		<listener class-name="com.fbp.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	 <test name="FaceBookProject Test">
+    <classes>
+      <class name="com.fbp.qa.testcases.LoginPageTest"/> 
+      <class name="com.fbp.qa.testcases.HomePageTest"/>
+       <class name="com.fbp.qa.testcases.EventPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

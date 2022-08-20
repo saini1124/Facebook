@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 66.42 s <<< FAILURE! - in TestSuite
+verifyHomePageTitleTest(com.fbp.qa.testcases.HomePageTest)  Time elapsed: 3.259 s  <<< FAILURE!
+java.lang.AssertionError: Home Page Title not matched expected [Facebook - log in or sign up] but found []
+	at com.fbp.qa.testcases.HomePageTest.verifyHomePageTitleTest(HomePageTest.java:36)
+
